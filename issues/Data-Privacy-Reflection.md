@@ -4,14 +4,20 @@
 
 **Review Focus Bear’s privacy policy and note key takeaways.**
 
-"Focus Bear is responsible for processing your personal data, this makes us the “Controller” under privacy laws." They collect Identification Data, Social Data, Academic & Professional Data, Commercial and Marketing Data, Technical Data, Economic, Financial and Insurance Data, Profile Data, Aggregate Data and Special Category of Personal Data.
+- Focus Bear gathers several kinds of data needed to offer its services, such as contact details, like email address and phone number, lifestyle/habit information, like goals set within the application, technical usage data, logs regarding the device and/or operating system for any possible troubleshooting and information regarding subscription payments.
+- Data is primarily used to manage user subscriptions and accounts,customer service, customizing user experience, troubleshooting technical problems, and marketing communications.
+- Focus Bear specifies that it doesn’t give any user personal data to other parties. Payments are processed by Stripe, while other data concerning habits are encrypted twice. Analytical data collected through surveys is anonymized before use.
+- Users have the choice of unsubscribing from marketing emails whenever they want. Users have the choice of unsubscribing from marketing emails whenever they want. If users have questions concerning the utilization of their data or if you they interested in exercising your rights under GDPR, If they want to access, change, or delete their information, users have to reach out to Focus Bear or their designated Data Protection Officer (DPO) using the contact information available in their policy.
 
 **What types of data are considered confidential at Focus Bear?**
 
-- Social Data and Special Category of Personal Data: They double encrypt our habit data.
-- Aggregate Data, Profile Data and Technical Data: They only look at anonymised data.
-- Economic, Financial and Insurance Data: Extra confidential, they don't store our cards details.
-- Commercial and Marketing Data: They just keep this information inside Focus Bear.
+Focus Bear treats several categories of data with high levels of care, focusing on security and, where necessary, anonymization or encryption.
+
+- Special Category of Personal Data: Focus Bear assures that they do not purposely gather this data, but it may be obtained from usage of the app. They use double encryption for habit data to ensure no one else can see it. Focus Bear also ensures that any survey data regarding health does not correlate it to personal details and only view it in the aggregate form.
+- Aggregate and Technical Data: Focus Bear takes measures to anonymize device logs, error reports, and website analytics so as to not allow outsiders to link the users devices data or browsing history to the user.
+- Economic, Financial and Insurance Data: When you subscribe, you have to provide payment details. Focus Bear does not store this information themselves, it is handled by Stripe, a third-party payment processor.
+- Social and Personal Habits: The user lifestyle choices and habits are considered private. The policy specifies that this habit data is double-encrypted so that only the user can access it.
+- Survey and Feedback Data: Any information users provides in optional surveys is treated with care. The company ensures that this data is either kept anonymous or analyzed only in aggregate form so it cannot be linked to you individually.
 
 **What are best practices for handling confidential data?**
 
