@@ -4,10 +4,10 @@
 
 **Review Focus Bear’s privacy policy and note key takeaways.**
 
-- Focus Bear gathers several kinds of data needed to offer its services, such as contact details, like email address and phone number, lifestyle/habit information, like goals set within the application, technical usage data, logs regarding the device and/or operating system for any possible troubleshooting and information regarding subscription payments.
-- Data is primarily used to manage user subscriptions and accounts,customer service, customizing user experience, troubleshooting technical problems, and marketing communications.
-- Focus Bear specifies that it doesn’t give any user personal data to other parties. Payments are processed by Stripe, while other data concerning habits are encrypted twice. Analytical data collected through surveys is anonymized before use.
-- Users have the choice of unsubscribing from marketing emails whenever they want. Users have the choice of unsubscribing from marketing emails whenever they want. If users have questions concerning the utilization of their data or if you they interested in exercising your rights under GDPR, If they want to access, change, or delete their information, users have to reach out to Focus Bear or their designated Data Protection Officer (DPO) using the contact information available in their policy.
+- What data Focus Bear collects: They gather basic contact info, like email and phone number, app usage logs for troubleshooting, habit goals, and subscription details.
+- Why that data is used: The data is used to manage accounts, deliver customer support, process app subscriptions, improve features, and send optional updates.
+- When data is shared: Focus Bear does not sell or give personal data to outside parties. Payment info is securely handled by Stripe, and survey responses are completely anonymized.
+- How users can manage their data: Users can opt out of marketing emails anytime. They can also request to view, update, or delete their personal info by contacting the designated privacy team.
 
 **What types of data are considered confidential at Focus Bear?**
 
