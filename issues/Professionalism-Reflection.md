@@ -4,15 +4,16 @@
 
 **What are examples of professional vs. unprofessional behaviour in a casual work environment? (Hint: Think about communication, meeting etiquette, and teamwork.)**
 
-In a casual workplace, professional behavior means keeping respect, clear communication, having shared goals and supporting each other. Unprofessional behavior crosses boundaries, disrupts work, or ignores other people's time. Also, the use of harsh words, gossip about coworkers, looking at the phone the whole time or showing late to work.
+- Professional Behavior: respecting my teammates' time, communicating clearly through mail, discord, text messages or scheduled meetings, collaborating on shared goals, supporting one another among teammates and taking constructive feedback openly.
+- Unprofessional behavior: showing up late to schedule meetings, making personal attacks or gossip, displaying an inappropriate attitude towards my colleagues, and browsing personal phones constantly during work hours.
 
 **What does respectful communication look like in remote teams? (e.g., tone in messages, handling disagreements, responding to feedback)**
 
-Respectful communication in remote teams means using clear, kind text, assuming good intent, and being polite during disagreements. It involves thoughtful messages, calm text debates, and open reactions to notes from teammates.
+Using clear, polite and respectful languague in Discord, mail or meetings, remaining calm and objective during code reviews and technical disagreements, receive feedback with the best possible attitude, take note of it, and learn from those mistakes.
 
 **How can you give and receive feedback professionally?**
 
-To give and receive feedback professionally, you have to focus on specific actions rather than personal traits, assume positive intent from the person who's giving you the feedback, and ask clarifying questions instead of reacting defensively. Likewise, provide this feedback privately, without the intention of publicly humiliating the person.
+To give and receive feedback professionally, you have to focus on specific code or tasks rather than personal traits, ask clarifying questions instead of reacting defensively to code review comments, offer feedback privately rather than publicly calling out teammates.
 
 **Review this guide for working with supervisors**
 
@@ -26,24 +27,50 @@ Yes, I have been working with my university team for a couple of years now; we r
 
 **What steps can you take to make sure your communication is clear, respectful, and inclusive?**
 
-I commit to communicating clearly, respectfully, and inclusively every day, speaking plainly and directly so the team understands our goals and challenges. Likewise, I will listen carefully and attentively to all opinions and viewpoints within my team and respect each member's perspective. I will also be open to receiving feedback and learning from mistakes to continuously improve. By using accessible language and inviting diverse perspectives, we can create an environment where every team member feels heard and respected, and where we can work together effectively.
+- Speak and write clearly so team goals are transparent.
+- Listen attentively to diverse viewpoints during web development discussions.
+- Accept code review feedback and try to resolve the issues quickly.
+- Write clear pull request descriptions so the team understands what changed on the website.
+- Listen attentively to diverse UI/UX viewpoints during design discussions.
+- Use accessible formatting and plain language in all documentation and code comments.
+- Ensure all remote text messages are polite, constructive, and considerate of different time zones.
 
 **How can you help create a positive, fun, and professional work environment?**
 
-To create a work environment where everyone enjoys coming to work, I will focus on bringing positive, fun, and professional energy to our team every day. I can do this by fostering a sense of unity among us, rather than separate individuals, where one person's victory is everyone's victory, and one person's defeat is everyone's defeat. This way, we can all support each other and help each other not only become better developers but also a better team, keeping morale high. Similarly, I believe it's important to differentiate between times and situations, knowing when to be professional, when to be funny, when to talk about work, and when to talk about other things. By combining work with a collaborative and relaxed attitude, we can create an environment where everyone supports each other and feels motivated to work and learn.
+- Bring an enthusiastic, problem-solving attitude to our daily meetings.
+- Celebrate the introduction of new team features together and offer help to each other during challenging times with bug fixes or issues.
+- Balance casual social chat in our team channel with focused and uninterrupted work coding sessions.
+- Share useful web development tools, articles, or coding shortcuts with the rest of the interns.
 
 **How can you prepare effectively for meetings with supervisors and colleagues?**
 
-To make the most of every meeting, I ensure I'm well-prepared by reviewing the agenda in advance and gathering the necessary data, updates, and reports. At meetings, I will always have clear and specific questions written down, focusing on solutions. Likewise, I respect everyone's schedule and won't waste any team member's time. Therefore, I always think carefully before speaking, so that every time I offer my opinion, it's well-founded and contributes significantly to the discussion or problem-solving.
+- Review meeting agendas and pull the latest code branch beforehand.
+- Write down specific technical questions about the codebase in advance.
+- Respect everyone's schedule by keeping status updates brief and solution-focused.
+- Test any local changes or features I plan to discuss during the meeting.
+- Prepare a brief summary of my daily progress
 
 **What would it look like to be proactive during your internship?**
 
-To make a significant impact during my internship, I am committed to being highly proactive every day. This means seeking ways to contribute value even before being asked, whether by researching solutions, anticipating project needs, or volunteering for new tasks. By remaining curious, asking questions, and being highly responsible with my work, I aim to demonstrate my reliability and contribute directly to the overall success of the team.
+- Anticipate website usability needs and write down small improvements.
+- Check GitHub daily to review issues assigned to me, or, if there are any unassigned ones, take the initiative to resolve them.
+- Research independent solutions to frontend errors before asking someone for help.
+- Test responsive layouts across mobile and desktop devices to anticipate usability fixes.
+- Document newly learned setup steps or internal workflows to help future interns or people working on the website.
 
 **How might you follow up with colleagues or supervisors if you need information/action from them? How would you escalate it further if you don't get a response and when would you escalate?**
 
-Depending on the urgency of the situation, there are different ways to communicate with them. If it is not very urgent, I can communicate via email and wait for a reply, if there is no response within two or three days, I can send a follow-up reminder. If the situation is somewhat urgent, I can reach out via Discord and wait for a response. If it is urgent, I could send a text message or schedule a meeting. I believe that some situations where things could escalate would be serious problems with a team member that we couldn't resolve privately. In those cases, I could contact our supervisor. Similarly, if I have access problems, encounter incorrect information, or find a bug, I could contact my supervisor, or if they don't have the necessary permissions, escalate the issue further. Likewise, if I have a problem with a supervisor, the situation could be escalated to the CEO to discuss the matter and find possible solutions.
+- Task Questions: Direct questions to my supervisor first via Mail/Discord for code requirements.
+- Logistics or IT Issues: Contact our project manager or IT lead first for system access or permission bugs.
+- Routine Follow Up: Wait 24 hours for a reply on non-urgent messages before sending a polite reminder.
+- Urgent Follow-Up: For code related issues, follow up after 4 hours or try to contact the person via another platform.
+- Escalation After No Reply: If there is no response after 48 hours or a second reminder, escalate the request to my supervisor.
+- Major Misconduct or Serious Safety Issues: Report directly to the CEO.
 
 **What are some things you won't do?**
 
-To maintain a high level of integrity and collaboration, there are certain boundaries I don't like to cross when working as part of a team. I will never compromise quality, take shortcuts to finish a task faster, or blame others when problems arise instead of focusing on solutions. Similarly, I won't engage in gossip or isolated communication when there's a problem to solve. I like to protect and maintain the trust of our team and keep our focus entirely on doing things right.
+- Take shortcuts or write untested code just to finish a feature faster.
+- Blame teammates when a merge conflict breaks the site instead of focusing on fixes.
+- Engage in gossip or avoid communication when troubleshooting technical problems.
+- Push unreviewed code straight to production without running proper checks.
+- Ignore coding standards or project guidelines set by the Focus Bear team.
