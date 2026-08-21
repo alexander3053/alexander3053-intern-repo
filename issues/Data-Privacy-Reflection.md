@@ -2,21 +2,21 @@
 
 ## Research & Learn
 
-**Review Focus Bear’s privacy policy and note key takeaways.**
+**Review Focus Bear's privacy policy and note key takeaways.**
 
-- What data Focus Bear collects: They gather basic contact info, like email and phone number, app usage logs for troubleshooting, habit goals, and subscription details.
-- Why that data is used: The data is used to manage accounts, deliver customer support, process app subscriptions, improve features, and send optional updates.
-- When data is shared: Focus Bear does not sell or give personal data to outside parties. Payment info is securely handled by Stripe, and survey responses are completely anonymized.
-- How users can manage their data: Users can opt out of marketing emails anytime. They can also request to view, update, or delete their personal info by contacting the designated privacy team.
+- What data Focus Bear collects: They grab basic stuff like my email, phone number, app usage logs when something breaks, my habit goals, and subscription info.
+- Why that data is used: The data helps manage my account, handle support questions, process payments, and occasionally send updates if I want them.
+- When data is shared: They don't sell personal info. Stripe handles payments securely, and any survey answers are completely anonymous.
+- How users can manage their data: I can opt out of marketing emails anytime or reach out to their privacy team to view, update, or delete my info.
 
 **What types of data are considered confidential at Focus Bear?**
 
 Focus Bear treats several categories of data with high levels of care, focusing on security and, where necessary, anonymization or encryption.
 
 - Special Category of Personal Data: Focus Bear assures that they do not purposely gather this data, but it may be obtained from usage of the app. They use double encryption for habit data to ensure no one else can see it. Focus Bear also ensures that any survey data regarding health does not correlate it to personal details and only view it in the aggregate form.
-- Aggregate and Technical Data: Focus Bear takes measures to anonymize device logs, error reports, and website analytics so as to not allow outsiders to link the users devices data or browsing history to the user.
+- Aggregate and Technical Data: Focus Bear takes measures to anonymize device logs, error reports, and website analytics so as to not allow outsiders to link the users' devices data or browsing history to the user.
 - Economic, Financial and Insurance Data: When you subscribe, you have to provide payment details. Focus Bear does not store this information themselves, it is handled by Stripe, a third-party payment processor.
-- Social and Personal Habits: The user lifestyle choices and habits are considered private. The policy specifies that this habit data is double-encrypted so that only the user can access it.
+- Social and Personal Habits: The users' lifestyle choices and habits are considered private. The policy specifies that this habit data is double-encrypted so that only the user can access it.
 - Survey and Feedback Data: Any information users provides in optional surveys is treated with care. The company ensures that this data is either kept anonymous or analyzed only in aggregate form so it cannot be linked to you individually.
 
 **What are best practices for handling confidential data?**
@@ -35,7 +35,7 @@ Some steps I can take are using strong passwords, locking my screen when I walk 
 
 **How should you store, share, and dispose of sensitive information safely?**
 
-Store information by using long passwords with mixed letters and numbers, turning on two-step login for all my accounts, saving files in folders that use strong encryption, protecting shared files with a private password, avoiding sending private data in standard text messages, checking that no data remains in a device's cloud sync before disposing information.
+Store information by using long passwords with mixed letters and numbers, turning on two-step login for all my accounts, saving files in folders that use strong encryption, protecting shared files with a private password, avoiding sending private data in standard text messages, checking that no data remains in a device's cloud sync before disposing of information.
 
 **What are some common mistakes that lead to data privacy issues, and how can they be avoided?**
 
