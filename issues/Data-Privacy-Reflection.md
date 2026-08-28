@@ -21,11 +21,18 @@ Focus Bear treats several categories of data with high levels of care, focusing 
 
 **What are best practices for handling confidential data?**
 
-Best practices for handling confidential data include collecting only what is necessary, limiting access to authorized staff, encrypting files at rest and in transit, and securely deleting records when they are no longer needed
+- Only collect the data we actually need.
+- Keep access open only to the people who truly need it.
+- Encrypt files both when they sit in storage and when they move around.
+- Delete records when we are done with them.
+- Checking who has access to a file before sharing it can help prevent mistakes.
 
 **How should you respond to a suspected data breach or accidental disclosure of confidential information?**
 
-I should respond immediately by containing the leak, recording the exact time of discovery, and activating my incident response team. Also, isolate affected systems, assess the risk and scope of the exposure, and fulfill legal or regulatory notification requirements.
+- Contain the leak immediately and note the exact time I found it.
+- Tell the incident response team right away.s
+- Isolate the affected systems to stop further exposure.
+- Figure out how much data leaked and follow the policy rules.
 
 ## Reflection
 
@@ -39,13 +46,20 @@ Store information by using long passwords with mixed letters and numbers, turnin
 
 **What are some common mistakes that lead to data privacy issues, and how can they be avoided?**
 
-Common mistakes that cause data privacy issues include collecting data without clear consent, misconfiguring cloud storage, using weak passwords, failing to update software, and poor employee training.
+- Collecting personal data without clear consent.
+- Leaving cloud storage wide open by accident.
+- Using weak passwords that are easy to guess.
+- Forgetting to update software and plugins.
+- Skipping proper team training on data privacy.
 
 ## Task
 
 **Identify at least one habit or practice you can adopt to improve data security in your role.**
 
-I can adopt the habit of using parameterized queries and prepared statements for all database operations to prevent SQL injection vulnerabilities, like separating user input from actual SQL code execution. Also, validating and sanitizing inputs, updating my CMS, plugins, and libraries regularly.
+- Lock my screen every single time I step away from my laptop, even for a quick break.
+- Never paste API keys or database passwords into chat apps or unencrypted notes.
+- Use approved tools provided by the team for storing and sharing sensitive information instead of personal drives or local folders.
+- Verify dependencies and plugins before adding them to our website projects to ensure they don't introduce known security vulnerabilities.
 
 **Document at least one key learning or security measure you will implement.**
 
